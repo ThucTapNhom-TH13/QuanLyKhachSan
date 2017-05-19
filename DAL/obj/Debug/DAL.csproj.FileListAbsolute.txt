@@ -1,0 +1,4 @@
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\DAL\bin\Debug\DAL.dll
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\DAL\bin\Debug\DAL.pdb
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\DAL\obj\Debug\DAL.dll
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\DAL\obj\Debug\DAL.pdb

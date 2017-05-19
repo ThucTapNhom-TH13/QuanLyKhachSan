@@ -1,0 +1,63 @@
+c:\users\phuong linh\documents\visual studio 2015\Projects\QUANLYKHACHSAN\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe.config
+C:\Users\Phuong Linh\Documents\Visual Studio 2015\Projects\QUANLYKHACHSAN\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe
+C:\Users\Phuong Linh\Documents\Visual Studio 2015\Projects\QUANLYKHACHSAN\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.pdb
+C:\Users\Phuong Linh\Documents\Visual Studio 2015\Projects\QUANLYKHACHSAN\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csprojResolveAssemblyReference.cache
+C:\Users\Phuong Linh\Documents\Visual Studio 2015\Projects\QUANLYKHACHSAN\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Form1.resources
+C:\Users\Phuong Linh\Documents\Visual Studio 2015\Projects\QUANLYKHACHSAN\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Properties.Resources.resources
+C:\Users\Phuong Linh\Documents\Visual Studio 2015\Projects\QUANLYKHACHSAN\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlikhachsac.resources
+C:\Users\Phuong Linh\Documents\Visual Studio 2015\Projects\QUANLYKHACHSAN\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlykhachhang.resources
+C:\Users\Phuong Linh\Documents\Visual Studio 2015\Projects\QUANLYKHACHSAN\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlythuetra.resources
+C:\Users\Phuong Linh\Documents\Visual Studio 2015\Projects\QUANLYKHACHSAN\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.GenerateResource.Cache
+C:\Users\Phuong Linh\Documents\Visual Studio 2015\Projects\QUANLYKHACHSAN\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe
+C:\Users\Phuong Linh\Documents\Visual Studio 2015\Projects\QUANLYKHACHSAN\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.pdb
+C:\Users\Phuong Linh\Documents\Visual Studio 2015\Projects\QUANLYKHACHSAN\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Quanlydichvu.resources
+C:\Users\Phuong Linh\Documents\Visual Studio 2015\Projects\QUANLYKHACHSAN\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlyphong.resources
+C:\Users\Phuong Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe.config
+C:\Users\Phuong Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe
+C:\Users\Phuong Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.pdb
+C:\Users\Phuong Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe
+C:\Users\Phuong Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.pdb
+C:\Users\Phuong Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csprojResolveAssemblyReference.cache
+C:\Users\Phuong Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.chitiethd.resources
+C:\Users\Phuong Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Form1.resources
+C:\Users\Phuong Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Properties.Resources.resources
+C:\Users\Phuong Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlikhachsac.resources
+C:\Users\Phuong Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Quanlydichvu.resources
+C:\Users\Phuong Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlykhachhang.resources
+C:\Users\Phuong Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlynv.resources
+C:\Users\Phuong Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlyphong.resources
+C:\Users\Phuong Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlythuetra.resources
+C:\Users\Phuong Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.GenerateResource.Cache
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe.config
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.pdb
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.chitiethd.resources
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Form1.resources
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Properties.Resources.resources
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlikhachsac.resources
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Quanlydichvu.resources
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlykhachhang.resources
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlynv.resources
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlyphong.resources
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlythuetra.resources
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.GenerateResource.Cache
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe
+C:\Users\Linh\Documents\ThucTapNhom-TH13-hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.pdb
+C:\Users\Nguyen Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe.config
+C:\Users\Nguyen Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe
+C:\Users\Nguyen Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.pdb
+C:\Users\Nguyen Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe
+C:\Users\Nguyen Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.pdb
+C:\Users\Nguyen Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Form1.resources
+C:\Users\Nguyen Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Properties.Resources.resources
+C:\Users\Nguyen Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlikhachsac.resources
+C:\Users\Nguyen Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Quanlydichvu.resources
+C:\Users\Nguyen Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlykhachhang.resources
+C:\Users\Nguyen Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlynv.resources
+C:\Users\Nguyen Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlyphong.resources
+C:\Users\Nguyen Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlythuetra.resources
+C:\Users\Nguyen Linh\Documents\GitHub\hotelManagerment\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.GenerateResource.Cache
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe.config
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.pdb
