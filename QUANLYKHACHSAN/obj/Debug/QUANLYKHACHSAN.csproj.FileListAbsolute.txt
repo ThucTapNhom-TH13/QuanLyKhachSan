@@ -73,3 +73,6 @@ C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QU
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlyphong.resources
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlythuetra.resources
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.GenerateResource.Cache
+F:\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe.config
+F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe
+F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.pdb
