@@ -46,6 +46,7 @@
             this.btthem = new System.Windows.Forms.Button();
             this.btsua = new System.Windows.Forms.Button();
             this.btxoa = new System.Windows.Forms.Button();
+            this.STT = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.grbChitietkh.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -186,6 +187,8 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.STT});
             this.dataGridView1.Location = new System.Drawing.Point(12, 238);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(472, 249);
@@ -201,6 +204,7 @@
             this.btthem.TabIndex = 2;
             this.btthem.Text = "Thêm";
             this.btthem.UseVisualStyleBackColor = true;
+            this.btthem.Click += new System.EventHandler(this.btthem_Click);
             // 
             // btsua
             // 
@@ -210,6 +214,7 @@
             this.btsua.TabIndex = 3;
             this.btsua.Text = "Sửa";
             this.btsua.UseVisualStyleBackColor = true;
+            this.btsua.Click += new System.EventHandler(this.btsua_Click);
             // 
             // btxoa
             // 
@@ -219,6 +224,12 @@
             this.btxoa.TabIndex = 4;
             this.btxoa.Text = "Xóa";
             this.btxoa.UseVisualStyleBackColor = true;
+            this.btxoa.Click += new System.EventHandler(this.btxoa_Click);
+            // 
+            // STT
+            // 
+            this.STT.HeaderText = "STT";
+            this.STT.Name = "STT";
             // 
             // quanlykhachhang
             // 
@@ -260,5 +271,6 @@
         private System.Windows.Forms.Button btthem;
         private System.Windows.Forms.Button btsua;
         private System.Windows.Forms.Button btxoa;
+        private System.Windows.Forms.DataGridViewTextBoxColumn STT;
     }
 }
