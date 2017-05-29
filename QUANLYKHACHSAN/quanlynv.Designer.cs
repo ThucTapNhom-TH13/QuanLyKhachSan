@@ -28,7 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.dgvNhan_Vien = new System.Windows.Forms.DataGridView();
+            this.MANV = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TENNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.GIOITINH = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.SDT = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.DIACHI = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MK = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -46,14 +53,10 @@
             this.txtDiaChi = new System.Windows.Forms.TextBox();
             this.txtMK = new System.Windows.Forms.TextBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.MANV = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.TENNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.GIOITINH = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.SDT = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.DIACHI = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.MK = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.errorNhanVien = new System.Windows.Forms.ErrorProvider(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.dgvNhan_Vien)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorNhanVien)).BeginInit();
             this.SuspendLayout();
             // 
             // dgvNhan_Vien
@@ -70,6 +73,43 @@
             this.dgvNhan_Vien.Name = "dgvNhan_Vien";
             this.dgvNhan_Vien.Size = new System.Drawing.Size(585, 242);
             this.dgvNhan_Vien.TabIndex = 0;
+            // 
+            // MANV
+            // 
+            this.MANV.DataPropertyName = "MANV";
+            this.MANV.HeaderText = "Mã Nhân Viên";
+            this.MANV.Name = "MANV";
+            this.MANV.Width = 50;
+            // 
+            // TENNV
+            // 
+            this.TENNV.DataPropertyName = "TENNV";
+            this.TENNV.HeaderText = "Tên Nhân Viên";
+            this.TENNV.Name = "TENNV";
+            // 
+            // GIOITINH
+            // 
+            this.GIOITINH.DataPropertyName = "GIOITINH";
+            this.GIOITINH.HeaderText = "Giới Tính";
+            this.GIOITINH.Name = "GIOITINH";
+            // 
+            // SDT
+            // 
+            this.SDT.DataPropertyName = "SDT";
+            this.SDT.HeaderText = "Số Điện Thoại";
+            this.SDT.Name = "SDT";
+            // 
+            // DIACHI
+            // 
+            this.DIACHI.DataPropertyName = "DIACHI";
+            this.DIACHI.HeaderText = "Địa Chỉ";
+            this.DIACHI.Name = "DIACHI";
+            // 
+            // MK
+            // 
+            this.MK.DataPropertyName = "MK";
+            this.MK.HeaderText = "Mật Khẩu";
+            this.MK.Name = "MK";
             // 
             // label1
             // 
@@ -220,42 +260,9 @@
             this.pictureBox1.TabIndex = 18;
             this.pictureBox1.TabStop = false;
             // 
-            // MANV
+            // errorNhanVien
             // 
-            this.MANV.DataPropertyName = "MANV";
-            this.MANV.HeaderText = "Mã Nhân Viên";
-            this.MANV.Name = "MANV";
-            this.MANV.Width = 50;
-            // 
-            // TENNV
-            // 
-            this.TENNV.DataPropertyName = "TENNV";
-            this.TENNV.HeaderText = "Tên Nhân Viên";
-            this.TENNV.Name = "TENNV";
-            // 
-            // GIOITINH
-            // 
-            this.GIOITINH.DataPropertyName = "GIOITINH";
-            this.GIOITINH.HeaderText = "Giới Tính";
-            this.GIOITINH.Name = "GIOITINH";
-            // 
-            // SDT
-            // 
-            this.SDT.DataPropertyName = "SDT";
-            this.SDT.HeaderText = "Số Điện Thoại";
-            this.SDT.Name = "SDT";
-            // 
-            // DIACHI
-            // 
-            this.DIACHI.DataPropertyName = "DIACHI";
-            this.DIACHI.HeaderText = "Địa Chỉ";
-            this.DIACHI.Name = "DIACHI";
-            // 
-            // MK
-            // 
-            this.MK.DataPropertyName = "MK";
-            this.MK.HeaderText = "Mật Khẩu";
-            this.MK.Name = "MK";
+            this.errorNhanVien.ContainerControl = this;
             // 
             // quanlynv
             // 
@@ -285,6 +292,7 @@
             this.Load += new System.EventHandler(this.quanlynv_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvNhan_Vien)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorNhanVien)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -316,5 +324,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn SDT;
         private System.Windows.Forms.DataGridViewTextBoxColumn DIACHI;
         private System.Windows.Forms.DataGridViewTextBoxColumn MK;
+        private System.Windows.Forms.ErrorProvider errorNhanVien;
     }
 }
