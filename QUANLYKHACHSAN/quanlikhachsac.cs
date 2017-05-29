@@ -17,7 +17,7 @@ namespace QUANLYKHACHSAN
         SqlConnection conn;
         public string ten;
         public string matkhau;
-        //string picAnh = @"C:\Users\Phuong Linh\Desktop\a.jpg";
+        string picAnh = @"C:\Users\Nguyen Linh\Desktop\icon\a.png";
 
         public quanlikhachsac()
         {
@@ -71,7 +71,7 @@ namespace QUANLYKHACHSAN
                 if (!string.IsNullOrEmpty(picAnh))
                     pictureBox9.Image = Image.FromFile(picAnh);
                 else
-                    pictureBox9.Image = Image.FromFile(@"C:\Users\Phuong Linh\Desktop\icon\a.jpg");
+                    pictureBox9.Image = Image.FromFile(@"C:\Users\Nguyen Linh\Desktop\icon\a.png");
 
             }
         }
