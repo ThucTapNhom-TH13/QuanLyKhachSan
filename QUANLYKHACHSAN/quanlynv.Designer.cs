@@ -52,10 +52,8 @@
             this.txtSDT = new System.Windows.Forms.TextBox();
             this.txtDiaChi = new System.Windows.Forms.TextBox();
             this.txtMK = new System.Windows.Forms.TextBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.errorNhanVien = new System.Windows.Forms.ErrorProvider(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.dgvNhan_Vien)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.errorNhanVien)).BeginInit();
             this.SuspendLayout();
             // 
@@ -252,14 +250,6 @@
             this.txtMK.Size = new System.Drawing.Size(191, 20);
             this.txtMK.TabIndex = 17;
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Location = new System.Drawing.Point(299, 47);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(121, 152);
-            this.pictureBox1.TabIndex = 18;
-            this.pictureBox1.TabStop = false;
-            // 
             // errorNhanVien
             // 
             this.errorNhanVien.ContainerControl = this;
@@ -269,7 +259,6 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(609, 468);
-            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.txtMK);
             this.Controls.Add(this.txtDiaChi);
             this.Controls.Add(this.txtSDT);
@@ -291,7 +280,6 @@
             this.Text = "quanlynv";
             this.Load += new System.EventHandler(this.quanlynv_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvNhan_Vien)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.errorNhanVien)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -317,7 +305,6 @@
         private System.Windows.Forms.TextBox txtSDT;
         private System.Windows.Forms.TextBox txtDiaChi;
         private System.Windows.Forms.TextBox txtMK;
-        private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.DataGridViewTextBoxColumn MANV;
         private System.Windows.Forms.DataGridViewTextBoxColumn TENNV;
         private System.Windows.Forms.DataGridViewTextBoxColumn GIOITINH;

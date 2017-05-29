@@ -10,7 +10,7 @@ namespace QUANLYKHACHSAN
         string strConnection = @"Data Source=LINH\SQLEXPRESS;Initial Catalog=QUANLYKHACHSAN1;Integrated Security=True";
         SqlConnection conn;
         SqlCommand coman;
-        SqlCommand coman1;
+       
         public Form1()
         {
             InitializeComponent();

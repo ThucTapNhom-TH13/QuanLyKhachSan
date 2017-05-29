@@ -71,7 +71,7 @@ namespace QUANLYKHACHSAN
             txtSDT.DataBindings.Clear();
             txtSDT.DataBindings.Add("Text", dgvNhan_Vien.DataSource, "SDT");
             txtMK.DataBindings.Clear();
-            txtMK.DataBindings.Add("Text", dgvNhan_Vien.DataSource, "MK");
+            txtMK.DataBindings.Add("Text", dgvNhan_Vien.DataSource, "MATKHAU");
         }
 
 

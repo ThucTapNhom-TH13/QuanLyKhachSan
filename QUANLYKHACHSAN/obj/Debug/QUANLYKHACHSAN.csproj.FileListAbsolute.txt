@@ -94,3 +94,9 @@ F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlynv.resources
 F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlyphong.resources
 F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlythuetra.resources
 F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.GenerateResource.Cache
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\BUS.dll
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\Entity.dll
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\DAL.dll
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\BUS.pdb
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\Entity.pdb
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\DAL.pdb
