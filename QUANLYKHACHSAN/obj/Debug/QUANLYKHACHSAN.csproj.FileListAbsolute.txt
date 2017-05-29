@@ -73,3 +73,24 @@ C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QU
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlyphong.resources
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlythuetra.resources
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.GenerateResource.Cache
+F:\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe.config
+F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe
+F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.pdb
+F:\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe
+F:\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.pdb
+F:\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\BUS.dll
+F:\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\Entity.dll
+F:\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\DAL.dll
+F:\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\BUS.pdb
+F:\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\Entity.pdb
+F:\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\DAL.pdb
+F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csprojResolveAssemblyReference.cache
+F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Form1.resources
+F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Properties.Resources.resources
+F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlikhachsac.resources
+F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Quanlydichvu.resources
+F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlykhachhang.resources
+F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlynv.resources
+F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlyphong.resources
+F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlythuetra.resources
+F:\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.GenerateResource.Cache
