@@ -11,7 +11,7 @@ namespace DAL
     {
         public static SqlConnection Connect()
         {
-            SqlConnection conn = new SqlConnection(@"Data Source=LINH\SQLEXPRESS;Initial Catalog=QUANLYKHACHSAN1;Integrated Security=True");
+            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-6ABMGHP\SQLEXPRESS;Initial Catalog=QUANLYKHACHSAN1;Integrated Security=True");
             return conn;
         }
         
