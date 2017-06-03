@@ -16,7 +16,7 @@ namespace QUANLYKHACHSAN
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new quanlynv());
+            Application.Run(new Form1());
         }
     }
 }

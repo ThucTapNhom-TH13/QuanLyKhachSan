@@ -11,3 +11,12 @@ F:\QuanLyKhachSan\BUS\bin\Debug\Entity.pdb
 F:\QuanLyKhachSan\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
 F:\QuanLyKhachSan\BUS\obj\Debug\BUS.dll
 F:\QuanLyKhachSan\BUS\obj\Debug\BUS.pdb
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\BUS\bin\Debug\BUS.dll
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\BUS\bin\Debug\BUS.pdb
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\BUS\bin\Debug\DAL.dll
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\BUS\bin\Debug\Entity.dll
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\BUS\bin\Debug\DAL.pdb
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\BUS\bin\Debug\Entity.pdb
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\BUS\obj\Debug\BUS.dll
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\BUS\obj\Debug\BUS.pdb

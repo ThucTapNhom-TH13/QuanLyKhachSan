@@ -7,3 +7,8 @@ F:\QuanLyKhachSan\Entity\bin\Debug\Entity.pdb
 F:\QuanLyKhachSan\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
 F:\QuanLyKhachSan\Entity\obj\Debug\Entity.dll
 F:\QuanLyKhachSan\Entity\obj\Debug\Entity.pdb
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\Entity\bin\Debug\Entity.dll
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\Entity\bin\Debug\Entity.pdb
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\Entity\obj\Debug\Entity.dll
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\Entity\obj\Debug\Entity.pdb
