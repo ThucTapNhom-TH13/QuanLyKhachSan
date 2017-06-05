@@ -93,6 +93,7 @@ namespace QUANLYKHACHSAN
 
         private void toolStripMenuItem1_Click(object sender, EventArgs e)
         {
+            webBrowser1.Visible = false;
             quanlykhachhang kh = new quanlykhachhang();
             kh.Show();
             quanlikhachsac fr2 = new quanlikhachsac();
@@ -101,6 +102,7 @@ namespace QUANLYKHACHSAN
 
         private void toolStripMenuItem2_Click(object sender, EventArgs e)
         {
+            webBrowser1.Visible = false;
             quanlythuetra kh = new quanlythuetra();
             kh.Show();
             quanlikhachsac fr2 = new quanlikhachsac();
@@ -110,6 +112,7 @@ namespace QUANLYKHACHSAN
 
         private void toolStripMenuItem3_Click(object sender, EventArgs e)
         {
+            webBrowser1.Visible = false;
             quanlyphong kh = new quanlyphong();
             kh.Show();
             quanlikhachsac fr2 = new quanlikhachsac();
@@ -119,6 +122,7 @@ namespace QUANLYKHACHSAN
 
         private void toolStripMenuItem5_Click(object sender, EventArgs e)
         {
+            webBrowser1.Visible = false;
             Quanlydichvu kh = new Quanlydichvu();
             kh.Show();
             quanlikhachsac fr2 = new quanlikhachsac();
@@ -142,7 +146,7 @@ namespace QUANLYKHACHSAN
 
         private void hướngDẫnToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            webBrowser1.Navigate("https://plus.google.com/u/0/101081654093017271632/posts/hkNjpk273JG");
+            webBrowser1.Navigate("https://plus.google.com/u/0/101081654093017271632/posts/XPsN4yE5C53");
         }
     }
 }
