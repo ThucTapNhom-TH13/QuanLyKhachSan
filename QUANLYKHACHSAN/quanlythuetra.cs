@@ -13,7 +13,7 @@ namespace QUANLYKHACHSAN
 {
     public partial class quanlythuetra : Form
     {
-        public string strConnection = @"Data Source=LINH\SQLEXPRESS;Initial Catalog=QUANLYKHACHSAN1;Integrated Security=True";
+        public string strConnection = @"Data Source=BUMBLEBEE\SQLEXPRESS;Initial Catalog=QUANLYKHACHSAN1;Integrated Security=True";
         public SqlConnection conn= null;
         public string ten;
         public string matkhau;
@@ -238,23 +238,6 @@ namespace QUANLYKHACHSAN
 
                 comboBox6.DisplayMember = "MATP";
                 comboBox6.ValueMember = "MATP";
-                
-                    
-                    
-
-                    //SqlCommand cmd2 = new SqlCommand("sp_tra3", conn);
-                    //cmd2.CommandType = CommandType.StoredProcedure;
-                    //SqlParameter p2 = new SqlParameter("@Ma", Convert.ToInt32(comboBox6.Text));
-                    //cmd2.Parameters.Add(p2);
-                    //SqlDataAdapter dg2 = new SqlDataAdapter(cmd2);
-                    //DataTable dt2 = new DataTable();
-                    //dg2.Fill(dt2);
-
-                    //dateTimePicker2.Text = dt2.Rows[]
-
-
-
-
                 }
             catch
             { }

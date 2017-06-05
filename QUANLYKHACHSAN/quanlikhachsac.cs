@@ -13,11 +13,11 @@ namespace QUANLYKHACHSAN
 {
     public partial class quanlikhachsac : Form
     {
-        string strConn = @"Data Source=LINH\SQLEXPRESS;Initial Catalog=QUANLYKHACHSAN1;Integrated Security=True";
+        string strConn = @"Data Source=BUMBLEBEE\SQLEXPRESS;Initial Catalog=QUANLYKHACHSAN1;Integrated Security=True";
         SqlConnection conn;
         public string ten;
         public string matkhau;
-        string picAnh = @"C:\Users\Nguyen Linh\Desktop\icon\a.png";
+        string picAnh = @"a.jpg";
 
         public quanlikhachsac()
         {

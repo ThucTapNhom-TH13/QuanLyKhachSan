@@ -12,3 +12,8 @@ C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\Entity\bin\Debug\Entity.pdb
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\Entity\obj\Debug\Entity.dll
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\Entity\obj\Debug\Entity.pdb
+D:\Github\HotelsManagement\QuanLyKhachSan\Entity\bin\Debug\Entity.dll
+D:\Github\HotelsManagement\QuanLyKhachSan\Entity\bin\Debug\Entity.pdb
+D:\Github\HotelsManagement\QuanLyKhachSan\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Github\HotelsManagement\QuanLyKhachSan\Entity\obj\Debug\Entity.dll
+D:\Github\HotelsManagement\QuanLyKhachSan\Entity\obj\Debug\Entity.pdb

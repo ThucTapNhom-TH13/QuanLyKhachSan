@@ -16,3 +16,10 @@ C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\DAL\bin\Debug\Entity.pdb
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\DAL\obj\Debug\DAL.dll
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\DAL\obj\Debug\DAL.pdb
+D:\Github\HotelsManagement\QuanLyKhachSan\DAL\bin\Debug\DAL.dll
+D:\Github\HotelsManagement\QuanLyKhachSan\DAL\bin\Debug\DAL.pdb
+D:\Github\HotelsManagement\QuanLyKhachSan\DAL\bin\Debug\Entity.dll
+D:\Github\HotelsManagement\QuanLyKhachSan\DAL\bin\Debug\Entity.pdb
+D:\Github\HotelsManagement\QuanLyKhachSan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Github\HotelsManagement\QuanLyKhachSan\DAL\obj\Debug\DAL.dll
+D:\Github\HotelsManagement\QuanLyKhachSan\DAL\obj\Debug\DAL.pdb

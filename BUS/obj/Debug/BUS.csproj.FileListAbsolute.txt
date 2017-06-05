@@ -20,3 +20,12 @@ C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\BUS\bin\Debug\Entity.pdb
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\BUS\obj\Debug\BUS.dll
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\BUS\obj\Debug\BUS.pdb
+D:\Github\HotelsManagement\QuanLyKhachSan\BUS\bin\Debug\BUS.dll
+D:\Github\HotelsManagement\QuanLyKhachSan\BUS\bin\Debug\BUS.pdb
+D:\Github\HotelsManagement\QuanLyKhachSan\BUS\bin\Debug\DAL.dll
+D:\Github\HotelsManagement\QuanLyKhachSan\BUS\bin\Debug\Entity.dll
+D:\Github\HotelsManagement\QuanLyKhachSan\BUS\bin\Debug\DAL.pdb
+D:\Github\HotelsManagement\QuanLyKhachSan\BUS\bin\Debug\Entity.pdb
+D:\Github\HotelsManagement\QuanLyKhachSan\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Github\HotelsManagement\QuanLyKhachSan\BUS\obj\Debug\BUS.dll
+D:\Github\HotelsManagement\QuanLyKhachSan\BUS\obj\Debug\BUS.pdb

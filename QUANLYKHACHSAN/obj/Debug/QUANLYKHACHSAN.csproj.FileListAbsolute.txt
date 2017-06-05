@@ -101,3 +101,25 @@ C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\BU
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\Entity.pdb
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\DAL.pdb
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.HuongDan.resources
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe.config
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.pdb
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.pdb
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\BUS.dll
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\DAL.dll
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\Entity.dll
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\BUS.pdb
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\DAL.pdb
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\Entity.pdb
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csprojResolveAssemblyReference.cache
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Form1.resources
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.HuongDan.resources
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Properties.Resources.resources
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlikhachsac.resources
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Quanlydichvu.resources
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlykhachhang.resources
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlynv.resources
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlyphong.resources
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.quanlythuetra.resources
+D:\Github\HotelsManagement\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.GenerateResource.Cache

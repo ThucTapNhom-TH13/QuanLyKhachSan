@@ -13,7 +13,7 @@ namespace QUANLYKHACHSAN
 {
     public partial class quanlyphong : Form
     {
-        public string strConnection = @"Data Source=LINH\SQLEXPRESS;Initial Catalog=QUANLYKHACHSAN1;Integrated Security=True";
+        public string strConnection = @"Data Source=BUMBLEBEE\SQLEXPRESS;Initial Catalog=QUANLYKHACHSAN1;Integrated Security=True";
         public SqlConnection conn = null;
         string Gender = "";
 

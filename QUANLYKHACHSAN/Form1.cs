@@ -7,7 +7,7 @@ namespace QUANLYKHACHSAN
 {
     public partial class Form1 : Form
     {
-        string strConnection = @"Data Source=LINH\SQLEXPRESS;Initial Catalog=QUANLYKHACHSAN1;Integrated Security=True";
+        string strConnection = @"Data Source=BUMBLEBEE\SQLEXPRESS;Initial Catalog=QUANLYKHACHSAN1;Integrated Security=True";
         SqlConnection conn;
         SqlCommand coman;
        
@@ -25,15 +25,19 @@ namespace QUANLYKHACHSAN
         {
             try
             {
-                conn = new SqlConnection(strConnection);
-                conn.Open();
-                string sql = "select count(*) from NHANVIEN where MANV=@txttentruycap and MATKHAU=@txtmk ";
-               
-                coman = new SqlCommand(sql, conn);
-                coman.Parameters.Add(new SqlParameter("@txttentruycap", textBox1.Text));
-                coman.Parameters.Add(new SqlParameter("@txtmk", textBox2.Text));
-               
-                int x = (int)coman.ExecuteScalar();
+                // CuongCV: disable de lam.
+
+                //conn = new SqlConnection(strConnection);
+                //conn.Open();
+                //string sql = "select count(*) from NHANVIEN where MANV=@txttentruycap and MATKHAU=@txtmk ";
+
+                //coman = new SqlCommand(sql, conn);
+                //coman.Parameters.Add(new SqlParameter("@txttentruycap", textBox1.Text));
+                //coman.Parameters.Add(new SqlParameter("@txtmk", textBox2.Text));
+
+                //int x = (int)coman.ExecuteScalar();
+
+                int x = 1;
                
 
                 if (x == 1)
