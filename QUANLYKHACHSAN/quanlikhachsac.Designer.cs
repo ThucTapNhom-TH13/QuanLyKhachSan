@@ -49,6 +49,8 @@
             this.toolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem5 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem6 = new System.Windows.Forms.ToolStripMenuItem();
+            this.hướngDẫnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.webBrowser1 = new System.Windows.Forms.WebBrowser();
             this.gbthongtinnv.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             this.menuStrip1.SuspendLayout();
@@ -209,7 +211,8 @@
             this.toolStripMenuItem2,
             this.toolStripMenuItem3,
             this.toolStripMenuItem5,
-            this.toolStripMenuItem6});
+            this.toolStripMenuItem6,
+            this.hướngDẫnToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(702, 24);
@@ -252,11 +255,27 @@
             this.toolStripMenuItem6.Text = "Thoát";
             this.toolStripMenuItem6.Click += new System.EventHandler(this.toolStripMenuItem6_Click);
             // 
+            // hướngDẫnToolStripMenuItem
+            // 
+            this.hướngDẫnToolStripMenuItem.Name = "hướngDẫnToolStripMenuItem";
+            this.hướngDẫnToolStripMenuItem.Size = new System.Drawing.Size(79, 20);
+            this.hướngDẫnToolStripMenuItem.Text = "Hướng dẫn";
+            this.hướngDẫnToolStripMenuItem.Click += new System.EventHandler(this.hướngDẫnToolStripMenuItem_Click);
+            // 
+            // webBrowser1
+            // 
+            this.webBrowser1.Location = new System.Drawing.Point(228, 49);
+            this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
+            this.webBrowser1.Name = "webBrowser1";
+            this.webBrowser1.Size = new System.Drawing.Size(462, 341);
+            this.webBrowser1.TabIndex = 11;
+            // 
             // quanlikhachsac
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(702, 496);
+            this.Controls.Add(this.webBrowser1);
             this.Controls.Add(this.gbthongtinnv);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
@@ -296,5 +315,7 @@
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem3;
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem5;
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem6;
+        private System.Windows.Forms.ToolStripMenuItem hướngDẫnToolStripMenuItem;
+        private System.Windows.Forms.WebBrowser webBrowser1;
     }
 }

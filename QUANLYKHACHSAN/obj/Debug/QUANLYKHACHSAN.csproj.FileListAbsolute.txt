@@ -100,3 +100,4 @@ C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\DA
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\BUS.pdb
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\Entity.pdb
 C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\bin\Debug\DAL.pdb
+C:\Users\Nguyen Linh\Documents\GitHub\QuanLyKhachSan\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.HuongDan.resources

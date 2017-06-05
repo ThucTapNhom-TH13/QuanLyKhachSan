@@ -139,5 +139,10 @@ namespace QUANLYKHACHSAN
         {
             this.Hide();
         }
+
+        private void hướngDẫnToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            webBrowser1.Navigate("https://plus.google.com/u/0/101081654093017271632/posts/hkNjpk273JG");
+        }
     }
 }
